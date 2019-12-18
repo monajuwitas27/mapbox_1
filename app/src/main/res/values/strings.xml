@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mapbox_Sample</string>
+    <!--<string name="map_box_access_token">pk.eyJ1Ijoia29sb25lbCIsImEiOiJjanNjMWc2enEwMGs5M3lwbmF2NXEwazV4In0.70IXd_Hc-X_o1jQt19J3lA</string>-->
+    <string name="map_box_access_token">pk.eyJ1IjoibW9uYWp1d2l0YXMiLCJhIjoiY2s0M3VrdG41MGJ3cDNrdDY0b3N5Y2sxYSJ9.7pn55Xs82BuXNi3wquOycg</string>
+    <string name="info">Info</string>
+    <string name="permissions_denied">Permissions denied</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="change_style_maps">Change style maps</string>
+</resources>
